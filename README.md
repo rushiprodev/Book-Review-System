@@ -1,4 +1,4 @@
 # apna-college_demo
 this is my first repository
 <br>
-Author: Rushi Bhagwat
+Author: Rushi Bhagwat bhavsar
